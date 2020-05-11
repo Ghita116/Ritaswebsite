@@ -588,7 +588,7 @@
 .fa-sign-out:before {
   content: "\f08b";
 }
-.fa-linkedin-square:before {
+.fa-linkedins-square:before {
   content: "\f08c";
 }
 .fa-thumb-tack:before {
@@ -801,8 +801,8 @@
 .fa-envelope:before {
   content: "\f0e0";
 }
-.fa-linkedin:before {
-  content: "\f0e1";
+.fa-linkedins:before {
+  content: "\f08c";
 }
 .fa-rotate-left:before,
 .fa-undo:before {
@@ -1787,8 +1787,8 @@
 .fa-facebook-official:before {
   content: "\f230";
 }
-.fa-pinterest-p:before {
-  content: "\f231";
+.fa-instagram-p:before {
+  content: "\f16d";
 }
 .fa-whatsapp:before {
   content: "\f232";

@@ -576,7 +576,7 @@
 .fa-sign-out:before {
   content: "\f08b";
 }
-.fa-linkedin-square:before {
+.fa-linkedins-square:before {
   content: "\f08c";
 }
 .fa-thumb-tack:before {
@@ -743,11 +743,11 @@
 .fa-truck:before {
   content: "\f0d1";
 }
-.fa-pinterest:before {
-  content: "\f0d2";
+.fa-linkedins:before {
+  content: "\f08c";
 }
-.fa-pinterest-square:before {
-  content: "\f0d3";
+.s-square:before {
+  content: "\f08c";
 }
 .fa-google-plus-square:before {
   content: "\f0d4";
@@ -788,7 +788,7 @@
 .fa-envelope:before {
   content: "\f0e0";
 }
-.fa-linkedin:before {
+.fa-linkedins:before {
   content: "\f0e1";
 }
 .fa-rotate-left:before,
@@ -1768,8 +1768,8 @@
 .fa-facebook-official:before {
   content: "\f230";
 }
-.fa-pinterest-p:before {
-  content: "\f231";
+.fa-linkedins-p:before {
+  content: "\f08c";
 }
 .fa-whatsapp:before {
   content: "\f232";
